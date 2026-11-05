@@ -1,0 +1,14 @@
+{
+ "version": "1.0.0",
+ "note": "暫定。同カテゴリ=same、同グループ別カテゴリ=near、別グループ=far、未定義=undefined。対称。",
+ "same": 0.1,
+ "near": 0.4,
+ "far": 0.9,
+ "undefined": 0.5,
+ "groups": {
+  "natural": ["nature", "animal", "food", "color"],
+  "built": ["place", "vehicle", "tool", "life"],
+  "social": ["society", "school", "sport", "game"],
+  "mind": ["feeling", "music", "time", "body"]
+ }
+}

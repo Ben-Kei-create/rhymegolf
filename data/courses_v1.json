@@ -1,0 +1,20 @@
+{
+ "version": "1.0.0",
+ "holes": [
+  {
+   "hole_id": "H01",
+   "name": "STREET GREEN",
+   "par": 4,
+   "start_s": 0.0,
+   "cup_s": 320.0,
+   "cup_radius_yd": 0.8,
+   "course_units_per_yd": 0.25,
+   "hazards": [
+    {"id": "B1", "kind": "bunker", "from_s": 212.0, "to_s": 230.0},
+    {"id": "W1", "kind": "water", "from_s": 260.0, "to_s": 280.0}
+   ],
+   "min_s": -25.0,
+   "max_s": 390.0
+  }
+ ]
+}

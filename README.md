@@ -1,22 +1,26 @@
 # RHYME GOLF（ライムゴルフ）
 
-「韻を踏んだ結果が、そのままボールの飛距離になる」ゴルフゲーム。Godot 4.x / GDScript。横画面・iPhone 向け。
+「韻を踏んだ結果が、そのままボールの飛距離になる」3Dギャグゴルフ。Godot 4.x / GDScript。iPhone 横画面・オフライン。
+仕様の正本: 詳細設計書 v1.0（`docs/design_brief.md` に参照章。設計書全文は追加待ち）。設計書との差は `docs/deviation_log.md`。
 
 ## 実行
 ```bash
-godot --path .                                   # 起動（エディタで開いて F5 でも可）
-godot --headless --path . --script res://tests/run_tests.gd   # 自動テスト（84件）
-godot --headless --path . --script res://tests/sim_scores.gd  # 飛距離分布の確認（バランス調整用）
-godot --headless --path . -- --autoplay          # 1ホール自動プレイ（e2e確認）
+godot --headless --path . --import                              # 初回・class_name追加後
+godot --path .                                                  # 起動（エディタで F5 でも可）
+godot --headless --path . --script res://tests/run_tests.gd     # 自動テスト（151件）
+godot --headless --path . --script res://tests/sim_scores.gd    # 飛距離分布（バランス調整用）
+godot --headless --path . -- --autoplay --seed=42               # 1ホール自動プレイ（e2e）
+python3 tools/build_lexicon.py && python3 tools/validate_lexicon.py   # 辞書の生成・検証
 ```
-初回・新規 `class_name` 追加後は `godot --headless --path . --import` を一度実行する。
 
-## 構成
-- `scripts/core/` … 純粋ロジック（Kana, ReadingDict, RhymeEngine, DistanceCalc, TopicPicker）。決定論的、シーン非依存
-- `scripts/game/` … HoleState（ルール）, CourseView（3D演出）, main.gd（UI・進行）
-- `data/words.tsv` … 読み辞書（単語/読み/カテゴリ/頻度/出題フラグ）
-- `tests/` … run_tests.gd, sim_scores.gd
-- `docs/deviation_log.md` … 設計書が未確認のため置いた仮定の一覧（要レビュー）
+## 構成（設計書 §8 準拠、Phase 1 時点）
+- `scripts/rhyme/` KanaNormalizer, MoraTokenizer, RhymeScorer（純粋計算・乱数なし）
+- `scripts/data/` LexiconRepository, PromptDeck（乱数はここだけ）
+- `scripts/golf/` GolfRules, CourseMapper, ShotResolver
+- `scripts/core/` GameStateMachine, GameManager
+- `scripts/view/CourseView.gd`（3D演出）, `scripts/ui/GameScreen.gd`（UI）
+- `data/` lexicon_v1.json, prompt_pool_v1.json, category_distance_v1.json, scoring_config_v1.json, courses_v1.json
+- `tools/` 辞書生成・検証（開発用 Python）, `tests/` rhyme / golf / integration
 
 ## 絶対条件
-飛距離 = `DistanceCalc.compute(お題, 入力)` のみ。クラブ・風・物理演算・残り距離による補正は無い（`test_no_hidden_correction` で確認）。
+飛距離は (お題, 回答, 同一ホール再利用か) だけで決まる。クラブ・風・物理演算・残り距離による補正なし。採点後に演出を再生する。

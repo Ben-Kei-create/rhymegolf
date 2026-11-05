@@ -1,0 +1,15 @@
+{
+ "scoring_version": "1.0.0",
+ "max_yards": 360.0,
+ "exponent": 2.4,
+ "length_component_divisor": 5.0,
+ "phonetic_length_weight": 0.60,
+ "phonetic_coverage_weight": 0.40,
+ "surprise_semantic_weight": 0.65,
+ "surprise_rarity_weight": 0.35,
+ "base_ratio_floor": 0.85,
+ "base_ratio_surprise_gain": 0.15,
+ "homophone_multiplier": 0.25,
+ "reuse_multiplier": 0.5,
+ "default_rarity": 0.5
+}

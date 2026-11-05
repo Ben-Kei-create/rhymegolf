@@ -1,0 +1,5102 @@
+{
+ "lexicon_version": "1.0.0",
+ "entries": [
+  {
+   "entry_id": "W000001",
+   "surface": "階段",
+   "reading_hira": "かいだん",
+   "vowels": [
+    "A",
+    "I",
+    "A",
+    "N"
+   ],
+   "semantic_category": "place",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "かいだん"
+   ]
+  },
+  {
+   "entry_id": "W000002",
+   "surface": "裁判",
+   "reading_hira": "さいばん",
+   "vowels": [
+    "A",
+    "I",
+    "A",
+    "N"
+   ],
+   "semantic_category": "society",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "さいばん"
+   ]
+  },
+  {
+   "entry_id": "W000003",
+   "surface": "最後",
+   "reading_hira": "さいご",
+   "vowels": [
+    "A",
+    "I",
+    "O"
+   ],
+   "semantic_category": "time",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "さいご"
+   ]
+  },
+  {
+   "entry_id": "W000004",
+   "surface": "最高",
+   "reading_hira": "さいこう",
+   "vowels": [
+    "A",
+    "I",
+    "O",
+    "U"
+   ],
+   "semantic_category": "feeling",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "さいこう"
+   ]
+  },
+  {
+   "entry_id": "W000005",
+   "surface": "灰皿",
+   "reading_hira": "はいざら",
+   "vowels": [
+    "A",
+    "I",
+    "A",
+    "A"
+   ],
+   "semantic_category": "life",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "はいざら"
+   ]
+  },
+  {
+   "entry_id": "W000006",
+   "surface": "海岸",
+   "reading_hira": "かいがん",
+   "vowels": [
+    "A",
+    "I",
+    "A",
+    "N"
+   ],
+   "semantic_category": "nature",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "かいがん"
+   ]
+  },
+  {
+   "entry_id": "W000007",
+   "surface": "快晴",
+   "reading_hira": "かいせい",
+   "vowels": [
+    "A",
+    "I",
+    "E",
+    "I"
+   ],
+   "semantic_category": "nature",
+   "frequency_percentile": 0.85,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "かいせい"
+   ]
+  },
+  {
+   "entry_id": "W000008",
+   "surface": "改善",
+   "reading_hira": "かいぜん",
+   "vowels": [
+    "A",
+    "I",
+    "E",
+    "N"
+   ],
+   "semantic_category": "society",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "かいぜん"
+   ]
+  },
+  {
+   "entry_id": "W000009",
+   "surface": "会談",
+   "reading_hira": "かいだん",
+   "vowels": [
+    "A",
+    "I",
+    "A",
+    "N"
+   ],
+   "semantic_category": "society",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "かいだん"
+   ]
+  },
+  {
+   "entry_id": "W000010",
+   "surface": "怪談",
+   "reading_hira": "かいだん",
+   "vowels": [
+    "A",
+    "I",
+    "A",
+    "N"
+   ],
+   "semantic_category": "feeling",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "かいだん"
+   ]
+  },
+  {
+   "entry_id": "W000011",
+   "surface": "大会",
+   "reading_hira": "たいかい",
+   "vowels": [
+    "A",
+    "I",
+    "A",
+    "I"
+   ],
+   "semantic_category": "sport",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "たいかい"
+   ]
+  },
+  {
+   "entry_id": "W000012",
+   "surface": "台風",
+   "reading_hira": "たいふう",
+   "vowels": [
+    "A",
+    "I",
+    "U",
+    "U"
+   ],
+   "semantic_category": "nature",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "たいふう"
+   ]
+  },
+  {
+   "entry_id": "W000013",
+   "surface": "太陽",
+   "reading_hira": "たいよう",
+   "vowels": [
+    "A",
+    "I",
+    "O",
+    "U"
+   ],
+   "semantic_category": "nature",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "たいよう"
+   ]
+  },
+  {
+   "entry_id": "W000014",
+   "surface": "体育",
+   "reading_hira": "たいいく",
+   "vowels": [
+    "A",
+    "I",
+    "I",
+    "U"
+   ],
+   "semantic_category": "school",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "たいいく"
+   ]
+  },
+  {
+   "entry_id": "W000015",
+   "surface": "大根",
+   "reading_hira": "だいこん",
+   "vowels": [
+    "A",
+    "I",
+    "O",
+    "N"
+   ],
+   "semantic_category": "food",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "だいこん"
+   ]
+  },
+  {
+   "entry_id": "W000016",
+   "surface": "大学",
+   "reading_hira": "だいがく",
+   "vowels": [
+    "A",
+    "I",
+    "A",
+    "U"
+   ],
+   "semantic_category": "school",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "だいがく"
+   ]
+  },
+  {
+   "entry_id": "W000017",
+   "surface": "代表",
+   "reading_hira": "だいひょう",
+   "vowels": [
+    "A",
+    "I",
+    "O",
+    "U"
+   ],
+   "semantic_category": "society",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "だいひょう"
+   ]
+  },
+  {
+   "entry_id": "W000018",
+   "surface": "大切",
+   "reading_hira": "たいせつ",
+   "vowels": [
+    "A",
+    "I",
+    "E",
+    "U"
+   ],
+   "semantic_category": "feeling",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "たいせつ"
+   ]
+  },
+  {
+   "entry_id": "W000019",
+   "surface": "先生",
+   "reading_hira": "せんせい",
+   "vowels": [
+    "E",
+    "N",
+    "E",
+    "I"
+   ],
+   "semantic_category": "school",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "せんせい"
+   ]
+  },
+  {
+   "entry_id": "W000020",
+   "surface": "宣言",
+   "reading_hira": "せんげん",
+   "vowels": [
+    "E",
+    "N",
+    "E",
+    "N"
+   ],
+   "semantic_category": "society",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "せんげん"
+   ]
+  },
+  {
+   "entry_id": "W000021",
+   "surface": "戦場",
+   "reading_hira": "せんじょう",
+   "vowels": [
+    "E",
+    "N",
+    "O",
+    "U"
+   ],
+   "semantic_category": "society",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "せんじょう"
+   ]
+  },
+  {
+   "entry_id": "W000022",
+   "surface": "洗濯",
+   "reading_hira": "せんたく",
+   "vowels": [
+    "E",
+    "N",
+    "A",
+    "U"
+   ],
+   "semantic_category": "life",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "せんたく"
+   ]
+  },
+  {
+   "entry_id": "W000023",
+   "surface": "選択",
+   "reading_hira": "せんたく",
+   "vowels": [
+    "E",
+    "N",
+    "A",
+    "U"
+   ],
+   "semantic_category": "life",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "せんたく"
+   ]
+  },
+  {
+   "entry_id": "W000024",
+   "surface": "専門",
+   "reading_hira": "せんもん",
+   "vowels": [
+    "E",
+    "N",
+    "O",
+    "N"
+   ],
+   "semantic_category": "school",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "せんもん"
+   ]
+  },
+  {
+   "entry_id": "W000025",
+   "surface": "電話",
+   "reading_hira": "でんわ",
+   "vowels": [
+    "E",
+    "N",
+    "A"
+   ],
+   "semantic_category": "tool",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "でんわ"
+   ]
+  },
+  {
+   "entry_id": "W000026",
+   "surface": "電車",
+   "reading_hira": "でんしゃ",
+   "vowels": [
+    "E",
+    "N",
+    "A"
+   ],
+   "semantic_category": "vehicle",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "でんしゃ"
+   ]
+  },
+  {
+   "entry_id": "W000027",
+   "surface": "電気",
+   "reading_hira": "でんき",
+   "vowels": [
+    "E",
+    "N",
+    "I"
+   ],
+   "semantic_category": "tool",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "でんき"
+   ]
+  },
+  {
+   "entry_id": "W000028",
+   "surface": "伝説",
+   "reading_hira": "でんせつ",
+   "vowels": [
+    "E",
+    "N",
+    "E",
+    "U"
+   ],
+   "semantic_category": "society",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "でんせつ"
+   ]
+  },
+  {
+   "entry_id": "W000029",
+   "surface": "天気",
+   "reading_hira": "てんき",
+   "vowels": [
+    "E",
+    "N",
+    "I"
+   ],
+   "semantic_category": "nature",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "てんき"
+   ]
+  },
+  {
+   "entry_id": "W000030",
+   "surface": "天才",
+   "reading_hira": "てんさい",
+   "vowels": [
+    "E",
+    "N",
+    "A",
+    "I"
+   ],
+   "semantic_category": "feeling",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "てんさい"
+   ]
+  },
+  {
+   "entry_id": "W000031",
+   "surface": "天使",
+   "reading_hira": "てんし",
+   "vowels": [
+    "E",
+    "N",
+    "I"
+   ],
+   "semantic_category": "feeling",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "てんし"
+   ]
+  },
+  {
+   "entry_id": "W000032",
+   "surface": "天国",
+   "reading_hira": "てんごく",
+   "vowels": [
+    "E",
+    "N",
+    "O",
+    "U"
+   ],
+   "semantic_category": "feeling",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "てんごく"
+   ]
+  },
+  {
+   "entry_id": "W000033",
+   "surface": "学校",
+   "reading_hira": "がっこう",
+   "vowels": [
+    "A",
+    "Q",
+    "O",
+    "U"
+   ],
+   "semantic_category": "school",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "がっこう"
+   ]
+  },
+  {
+   "entry_id": "W000034",
+   "surface": "合格",
+   "reading_hira": "ごうかく",
+   "vowels": [
+    "O",
+    "U",
+    "A",
+    "U"
+   ],
+   "semantic_category": "school",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "ごうかく"
+   ]
+  },
+  {
+   "entry_id": "W000035",
+   "surface": "楽器",
+   "reading_hira": "がっき",
+   "vowels": [
+    "A",
+    "Q",
+    "I"
+   ],
+   "semantic_category": "music",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "がっき"
+   ]
+  },
+  {
+   "entry_id": "W000036",
+   "surface": "歌手",
+   "reading_hira": "かしゅ",
+   "vowels": [
+    "A",
+    "U"
+   ],
+   "semantic_category": "music",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "かしゅ"
+   ]
+  },
+  {
+   "entry_id": "W000037",
+   "surface": "音楽",
+   "reading_hira": "おんがく",
+   "vowels": [
+    "O",
+    "N",
+    "A",
+    "U"
+   ],
+   "semantic_category": "music",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "おんがく"
+   ]
+  },
+  {
+   "entry_id": "W000038",
+   "surface": "音符",
+   "reading_hira": "おんぷ",
+   "vowels": [
+    "O",
+    "N",
+    "U"
+   ],
+   "semantic_category": "music",
+   "frequency_percentile": 0.85,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "おんぷ"
+   ]
+  },
+  {
+   "entry_id": "W000039",
+   "surface": "大好き",
+   "reading_hira": "だいすき",
+   "vowels": [
+    "A",
+    "I",
+    "U",
+    "I"
+   ],
+   "semantic_category": "feeling",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "だいすき"
+   ]
+  },
+  {
+   "entry_id": "W000040",
+   "surface": "青空",
+   "reading_hira": "あおぞら",
+   "vowels": [
+    "A",
+    "O",
+    "O",
+    "A"
+   ],
+   "semantic_category": "nature",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "あおぞら"
+   ]
+  },
+  {
+   "entry_id": "W000041",
+   "surface": "夕焼け",
+   "reading_hira": "ゆうやけ",
+   "vowels": [
+    "U",
+    "U",
+    "A",
+    "E"
+   ],
+   "semantic_category": "nature",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "ゆうやけ"
+   ]
+  },
+  {
+   "entry_id": "W000042",
+   "surface": "朝焼け",
+   "reading_hira": "あさやけ",
+   "vowels": [
+    "A",
+    "A",
+    "A",
+    "E"
+   ],
+   "semantic_category": "nature",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "あさやけ"
+   ]
+  },
+  {
+   "entry_id": "W000043",
+   "surface": "夏休み",
+   "reading_hira": "なつやすみ",
+   "vowels": [
+    "A",
+    "U",
+    "A",
+    "U",
+    "I"
+   ],
+   "semantic_category": "time",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "なつやすみ"
+   ]
+  },
+  {
+   "entry_id": "W000044",
+   "surface": "冬休み",
+   "reading_hira": "ふゆやすみ",
+   "vowels": [
+    "U",
+    "U",
+    "A",
+    "U",
+    "I"
+   ],
+   "semantic_category": "time",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "ふゆやすみ"
+   ]
+  },
+  {
+   "entry_id": "W000045",
+   "surface": "花火",
+   "reading_hira": "はなび",
+   "vowels": [
+    "A",
+    "A",
+    "I"
+   ],
+   "semantic_category": "nature",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "はなび"
+   ]
+  },
+  {
+   "entry_id": "W000046",
+   "surface": "桜",
+   "reading_hira": "さくら",
+   "vowels": [
+    "A",
+    "U",
+    "A"
+   ],
+   "semantic_category": "nature",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "さくら"
+   ]
+  },
+  {
+   "entry_id": "W000047",
+   "surface": "紅葉",
+   "reading_hira": "もみじ",
+   "vowels": [
+    "O",
+    "I",
+    "I"
+   ],
+   "semantic_category": "nature",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "もみじ"
+   ]
+  },
+  {
+   "entry_id": "W000048",
+   "surface": "雪だるま",
+   "reading_hira": "ゆきだるま",
+   "vowels": [
+    "U",
+    "I",
+    "A",
+    "U",
+    "A"
+   ],
+   "semantic_category": "nature",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "ゆきだるま"
+   ]
+  },
+  {
+   "entry_id": "W000049",
+   "surface": "雨",
+   "reading_hira": "あめ",
+   "vowels": [
+    "A",
+    "E"
+   ],
+   "semantic_category": "nature",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "あめ"
+   ]
+  },
+  {
+   "entry_id": "W000050",
+   "surface": "虹",
+   "reading_hira": "にじ",
+   "vowels": [
+    "I",
+    "I"
+   ],
+   "semantic_category": "nature",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "にじ"
+   ]
+  },
+  {
+   "entry_id": "W000051",
+   "surface": "空",
+   "reading_hira": "そら",
+   "vowels": [
+    "O",
+    "A"
+   ],
+   "semantic_category": "nature",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "そら"
+   ]
+  },
+  {
+   "entry_id": "W000052",
+   "surface": "海",
+   "reading_hira": "うみ",
+   "vowels": [
+    "U",
+    "I"
+   ],
+   "semantic_category": "nature",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "うみ"
+   ]
+  },
+  {
+   "entry_id": "W000053",
+   "surface": "山",
+   "reading_hira": "やま",
+   "vowels": [
+    "A",
+    "A"
+   ],
+   "semantic_category": "nature",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "やま"
+   ]
+  },
+  {
+   "entry_id": "W000054",
+   "surface": "川",
+   "reading_hira": "かわ",
+   "vowels": [
+    "A",
+    "A"
+   ],
+   "semantic_category": "nature",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "かわ"
+   ]
+  },
+  {
+   "entry_id": "W000055",
+   "surface": "星",
+   "reading_hira": "ほし",
+   "vowels": [
+    "O",
+    "I"
+   ],
+   "semantic_category": "nature",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "ほし"
+   ]
+  },
+  {
+   "entry_id": "W000056",
+   "surface": "月",
+   "reading_hira": "つき",
+   "vowels": [
+    "U",
+    "I"
+   ],
+   "semantic_category": "nature",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "つき"
+   ]
+  },
+  {
+   "entry_id": "W000057",
+   "surface": "風",
+   "reading_hira": "かぜ",
+   "vowels": [
+    "A",
+    "E"
+   ],
+   "semantic_category": "nature",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "かぜ"
+   ]
+  },
+  {
+   "entry_id": "W000058",
+   "surface": "雲",
+   "reading_hira": "くも",
+   "vowels": [
+    "U",
+    "O"
+   ],
+   "semantic_category": "nature",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "くも"
+   ]
+  },
+  {
+   "entry_id": "W000059",
+   "surface": "稲妻",
+   "reading_hira": "いなずま",
+   "vowels": [
+    "I",
+    "A",
+    "U",
+    "A"
+   ],
+   "semantic_category": "nature",
+   "frequency_percentile": 0.85,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "いなずま"
+   ]
+  },
+  {
+   "entry_id": "W000060",
+   "surface": "竜巻",
+   "reading_hira": "たつまき",
+   "vowels": [
+    "A",
+    "U",
+    "A",
+    "I"
+   ],
+   "semantic_category": "nature",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "たつまき"
+   ]
+  },
+  {
+   "entry_id": "W000061",
+   "surface": "流星",
+   "reading_hira": "りゅうせい",
+   "vowels": [
+    "U",
+    "U",
+    "E",
+    "I"
+   ],
+   "semantic_category": "nature",
+   "frequency_percentile": 0.85,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "りゅうせい"
+   ]
+  },
+  {
+   "entry_id": "W000062",
+   "surface": "宇宙",
+   "reading_hira": "うちゅう",
+   "vowels": [
+    "U",
+    "U",
+    "U"
+   ],
+   "semantic_category": "nature",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "うちゅう"
+   ]
+  },
+  {
+   "entry_id": "W000063",
+   "surface": "地球",
+   "reading_hira": "ちきゅう",
+   "vowels": [
+    "I",
+    "U",
+    "U"
+   ],
+   "semantic_category": "nature",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "ちきゅう"
+   ]
+  },
+  {
+   "entry_id": "W000064",
+   "surface": "火山",
+   "reading_hira": "かざん",
+   "vowels": [
+    "A",
+    "A",
+    "N"
+   ],
+   "semantic_category": "nature",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "かざん"
+   ]
+  },
+  {
+   "entry_id": "W000065",
+   "surface": "砂漠",
+   "reading_hira": "さばく",
+   "vowels": [
+    "A",
+    "A",
+    "U"
+   ],
+   "semantic_category": "nature",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "さばく"
+   ]
+  },
+  {
+   "entry_id": "W000066",
+   "surface": "森林",
+   "reading_hira": "しんりん",
+   "vowels": [
+    "I",
+    "N",
+    "I",
+    "N"
+   ],
+   "semantic_category": "nature",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "しんりん"
+   ]
+  },
+  {
+   "entry_id": "W000067",
+   "surface": "湖",
+   "reading_hira": "みずうみ",
+   "vowels": [
+    "I",
+    "U",
+    "U",
+    "I"
+   ],
+   "semantic_category": "nature",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "みずうみ"
+   ]
+  },
+  {
+   "entry_id": "W000068",
+   "surface": "池",
+   "reading_hira": "いけ",
+   "vowels": [
+    "I",
+    "E"
+   ],
+   "semantic_category": "nature",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "いけ"
+   ]
+  },
+  {
+   "entry_id": "W000069",
+   "surface": "滝",
+   "reading_hira": "たき",
+   "vowels": [
+    "A",
+    "I"
+   ],
+   "semantic_category": "nature",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "たき"
+   ]
+  },
+  {
+   "entry_id": "W000070",
+   "surface": "寿司",
+   "reading_hira": "すし",
+   "vowels": [
+    "U",
+    "I"
+   ],
+   "semantic_category": "food",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "すし"
+   ]
+  },
+  {
+   "entry_id": "W000071",
+   "surface": "刺身",
+   "reading_hira": "さしみ",
+   "vowels": [
+    "A",
+    "I",
+    "I"
+   ],
+   "semantic_category": "food",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "さしみ"
+   ]
+  },
+  {
+   "entry_id": "W000072",
+   "surface": "天ぷら",
+   "reading_hira": "てんぷら",
+   "vowels": [
+    "E",
+    "N",
+    "U",
+    "A"
+   ],
+   "semantic_category": "food",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "てんぷら"
+   ]
+  },
+  {
+   "entry_id": "W000073",
+   "surface": "焼肉",
+   "reading_hira": "やきにく",
+   "vowels": [
+    "A",
+    "I",
+    "I",
+    "U"
+   ],
+   "semantic_category": "food",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "やきにく"
+   ]
+  },
+  {
+   "entry_id": "W000074",
+   "surface": "牛丼",
+   "reading_hira": "ぎゅうどん",
+   "vowels": [
+    "U",
+    "U",
+    "O",
+    "N"
+   ],
+   "semantic_category": "food",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "ぎゅうどん"
+   ]
+  },
+  {
+   "entry_id": "W000075",
+   "surface": "親子丼",
+   "reading_hira": "おやこどん",
+   "vowels": [
+    "O",
+    "A",
+    "O",
+    "O",
+    "N"
+   ],
+   "semantic_category": "food",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "おやこどん"
+   ]
+  },
+  {
+   "entry_id": "W000076",
+   "surface": "唐揚げ",
+   "reading_hira": "からあげ",
+   "vowels": [
+    "A",
+    "A",
+    "A",
+    "E"
+   ],
+   "semantic_category": "food",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "からあげ"
+   ]
+  },
+  {
+   "entry_id": "W000077",
+   "surface": "卵焼き",
+   "reading_hira": "たまごやき",
+   "vowels": [
+    "A",
+    "A",
+    "O",
+    "A",
+    "I"
+   ],
+   "semantic_category": "food",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "たまごやき"
+   ]
+  },
+  {
+   "entry_id": "W000078",
+   "surface": "納豆",
+   "reading_hira": "なっとう",
+   "vowels": [
+    "A",
+    "Q",
+    "O",
+    "U"
+   ],
+   "semantic_category": "food",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "なっとう"
+   ]
+  },
+  {
+   "entry_id": "W000079",
+   "surface": "味噌汁",
+   "reading_hira": "みそしる",
+   "vowels": [
+    "I",
+    "O",
+    "I",
+    "U"
+   ],
+   "semantic_category": "food",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "みそしる"
+   ]
+  },
+  {
+   "entry_id": "W000080",
+   "surface": "餃子",
+   "reading_hira": "ぎょうざ",
+   "vowels": [
+    "O",
+    "U",
+    "A"
+   ],
+   "semantic_category": "food",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "ぎょうざ"
+   ]
+  },
+  {
+   "entry_id": "W000081",
+   "surface": "麦茶",
+   "reading_hira": "むぎちゃ",
+   "vowels": [
+    "U",
+    "I",
+    "A"
+   ],
+   "semantic_category": "food",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "むぎちゃ"
+   ]
+  },
+  {
+   "entry_id": "W000082",
+   "surface": "紅茶",
+   "reading_hira": "こうちゃ",
+   "vowels": [
+    "O",
+    "U",
+    "A"
+   ],
+   "semantic_category": "food",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "こうちゃ"
+   ]
+  },
+  {
+   "entry_id": "W000083",
+   "surface": "珈琲",
+   "reading_hira": "こーひー",
+   "vowels": [
+    "O",
+    "O",
+    "I",
+    "I"
+   ],
+   "semantic_category": "food",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "こーひー"
+   ]
+  },
+  {
+   "entry_id": "W000084",
+   "surface": "牛乳",
+   "reading_hira": "ぎゅうにゅう",
+   "vowels": [
+    "U",
+    "U",
+    "U",
+    "U"
+   ],
+   "semantic_category": "food",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "ぎゅうにゅう"
+   ]
+  },
+  {
+   "entry_id": "W000085",
+   "surface": "林檎",
+   "reading_hira": "りんご",
+   "vowels": [
+    "I",
+    "N",
+    "O"
+   ],
+   "semantic_category": "food",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "りんご"
+   ]
+  },
+  {
+   "entry_id": "W000086",
+   "surface": "蜜柑",
+   "reading_hira": "みかん",
+   "vowels": [
+    "I",
+    "A",
+    "N"
+   ],
+   "semantic_category": "food",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "みかん"
+   ]
+  },
+  {
+   "entry_id": "W000087",
+   "surface": "西瓜",
+   "reading_hira": "すいか",
+   "vowels": [
+    "U",
+    "I",
+    "A"
+   ],
+   "semantic_category": "food",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "すいか"
+   ]
+  },
+  {
+   "entry_id": "W000088",
+   "surface": "葡萄",
+   "reading_hira": "ぶどう",
+   "vowels": [
+    "U",
+    "O",
+    "U"
+   ],
+   "semantic_category": "food",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "ぶどう"
+   ]
+  },
+  {
+   "entry_id": "W000089",
+   "surface": "苺",
+   "reading_hira": "いちご",
+   "vowels": [
+    "I",
+    "I",
+    "O"
+   ],
+   "semantic_category": "food",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "いちご"
+   ]
+  },
+  {
+   "entry_id": "W000090",
+   "surface": "檸檬",
+   "reading_hira": "れもん",
+   "vowels": [
+    "E",
+    "O",
+    "N"
+   ],
+   "semantic_category": "food",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "れもん"
+   ]
+  },
+  {
+   "entry_id": "W000091",
+   "surface": "バナナ",
+   "reading_hira": "ばなな",
+   "vowels": [
+    "A",
+    "A",
+    "A"
+   ],
+   "semantic_category": "food",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "ばなな"
+   ]
+  },
+  {
+   "entry_id": "W000092",
+   "surface": "カレー",
+   "reading_hira": "かれー",
+   "vowels": [
+    "A",
+    "E",
+    "E"
+   ],
+   "semantic_category": "food",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "かれー"
+   ]
+  },
+  {
+   "entry_id": "W000093",
+   "surface": "ラーメン",
+   "reading_hira": "らーめん",
+   "vowels": [
+    "A",
+    "A",
+    "E",
+    "N"
+   ],
+   "semantic_category": "food",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "らーめん"
+   ]
+  },
+  {
+   "entry_id": "W000094",
+   "surface": "パン",
+   "reading_hira": "ぱん",
+   "vowels": [
+    "A",
+    "N"
+   ],
+   "semantic_category": "food",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "ぱん"
+   ]
+  },
+  {
+   "entry_id": "W000095",
+   "surface": "猫",
+   "reading_hira": "ねこ",
+   "vowels": [
+    "E",
+    "O"
+   ],
+   "semantic_category": "animal",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "ねこ"
+   ]
+  },
+  {
+   "entry_id": "W000096",
+   "surface": "犬",
+   "reading_hira": "いぬ",
+   "vowels": [
+    "I",
+    "U"
+   ],
+   "semantic_category": "animal",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "いぬ"
+   ]
+  },
+  {
+   "entry_id": "W000097",
+   "surface": "兎",
+   "reading_hira": "うさぎ",
+   "vowels": [
+    "U",
+    "A",
+    "I"
+   ],
+   "semantic_category": "animal",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "うさぎ"
+   ]
+  },
+  {
+   "entry_id": "W000098",
+   "surface": "象",
+   "reading_hira": "ぞう",
+   "vowels": [
+    "O",
+    "U"
+   ],
+   "semantic_category": "animal",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "ぞう"
+   ]
+  },
+  {
+   "entry_id": "W000099",
+   "surface": "虎",
+   "reading_hira": "とら",
+   "vowels": [
+    "O",
+    "A"
+   ],
+   "semantic_category": "animal",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "とら"
+   ]
+  },
+  {
+   "entry_id": "W000100",
+   "surface": "熊",
+   "reading_hira": "くま",
+   "vowels": [
+    "U",
+    "A"
+   ],
+   "semantic_category": "animal",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "くま"
+   ]
+  },
+  {
+   "entry_id": "W000101",
+   "surface": "狐",
+   "reading_hira": "きつね",
+   "vowels": [
+    "I",
+    "U",
+    "E"
+   ],
+   "semantic_category": "animal",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "きつね"
+   ]
+  },
+  {
+   "entry_id": "W000102",
+   "surface": "狸",
+   "reading_hira": "たぬき",
+   "vowels": [
+    "A",
+    "U",
+    "I"
+   ],
+   "semantic_category": "animal",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "たぬき"
+   ]
+  },
+  {
+   "entry_id": "W000103",
+   "surface": "鯨",
+   "reading_hira": "くじら",
+   "vowels": [
+    "U",
+    "I",
+    "A"
+   ],
+   "semantic_category": "animal",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "くじら"
+   ]
+  },
+  {
+   "entry_id": "W000104",
+   "surface": "海豚",
+   "reading_hira": "いるか",
+   "vowels": [
+    "I",
+    "U",
+    "A"
+   ],
+   "semantic_category": "animal",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "いるか"
+   ]
+  },
+  {
+   "entry_id": "W000105",
+   "surface": "鮫",
+   "reading_hira": "さめ",
+   "vowels": [
+    "A",
+    "E"
+   ],
+   "semantic_category": "animal",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "さめ"
+   ]
+  },
+  {
+   "entry_id": "W000106",
+   "surface": "蛸",
+   "reading_hira": "たこ",
+   "vowels": [
+    "A",
+    "O"
+   ],
+   "semantic_category": "animal",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "たこ"
+   ]
+  },
+  {
+   "entry_id": "W000107",
+   "surface": "烏賊",
+   "reading_hira": "いか",
+   "vowels": [
+    "I",
+    "A"
+   ],
+   "semantic_category": "animal",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "いか"
+   ]
+  },
+  {
+   "entry_id": "W000108",
+   "surface": "蛙",
+   "reading_hira": "かえる",
+   "vowels": [
+    "A",
+    "E",
+    "U"
+   ],
+   "semantic_category": "animal",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "かえる"
+   ]
+  },
+  {
+   "entry_id": "W000109",
+   "surface": "蝸牛",
+   "reading_hira": "かたつむり",
+   "vowels": [
+    "A",
+    "A",
+    "U",
+    "U",
+    "I"
+   ],
+   "semantic_category": "animal",
+   "frequency_percentile": 0.85,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "かたつむり"
+   ]
+  },
+  {
+   "entry_id": "W000110",
+   "surface": "蜻蛉",
+   "reading_hira": "とんぼ",
+   "vowels": [
+    "O",
+    "N",
+    "O"
+   ],
+   "semantic_category": "animal",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "とんぼ"
+   ]
+  },
+  {
+   "entry_id": "W000111",
+   "surface": "蝶々",
+   "reading_hira": "ちょうちょ",
+   "vowels": [
+    "O",
+    "U",
+    "O"
+   ],
+   "semantic_category": "animal",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "ちょうちょ"
+   ]
+  },
+  {
+   "entry_id": "W000112",
+   "surface": "蛍",
+   "reading_hira": "ほたる",
+   "vowels": [
+    "O",
+    "A",
+    "U"
+   ],
+   "semantic_category": "animal",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "ほたる"
+   ]
+  },
+  {
+   "entry_id": "W000113",
+   "surface": "海賊",
+   "reading_hira": "かいぞく",
+   "vowels": [
+    "A",
+    "I",
+    "O",
+    "U"
+   ],
+   "semantic_category": "society",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "かいぞく"
+   ]
+  },
+  {
+   "entry_id": "W000114",
+   "surface": "忍者",
+   "reading_hira": "にんじゃ",
+   "vowels": [
+    "I",
+    "N",
+    "A"
+   ],
+   "semantic_category": "society",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "にんじゃ"
+   ]
+  },
+  {
+   "entry_id": "W000115",
+   "surface": "侍",
+   "reading_hira": "さむらい",
+   "vowels": [
+    "A",
+    "U",
+    "A",
+    "I"
+   ],
+   "semantic_category": "society",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "さむらい"
+   ]
+  },
+  {
+   "entry_id": "W000116",
+   "surface": "魔法",
+   "reading_hira": "まほう",
+   "vowels": [
+    "A",
+    "O",
+    "U"
+   ],
+   "semantic_category": "game",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "まほう"
+   ]
+  },
+  {
+   "entry_id": "W000117",
+   "surface": "勇者",
+   "reading_hira": "ゆうしゃ",
+   "vowels": [
+    "U",
+    "U",
+    "A"
+   ],
+   "semantic_category": "game",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "ゆうしゃ"
+   ]
+  },
+  {
+   "entry_id": "W000118",
+   "surface": "王様",
+   "reading_hira": "おうさま",
+   "vowels": [
+    "O",
+    "U",
+    "A",
+    "A"
+   ],
+   "semantic_category": "society",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "おうさま"
+   ]
+  },
+  {
+   "entry_id": "W000119",
+   "surface": "姫",
+   "reading_hira": "ひめ",
+   "vowels": [
+    "I",
+    "E"
+   ],
+   "semantic_category": "society",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "ひめ"
+   ]
+  },
+  {
+   "entry_id": "W000120",
+   "surface": "魔王",
+   "reading_hira": "まおう",
+   "vowels": [
+    "A",
+    "O",
+    "U"
+   ],
+   "semantic_category": "game",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "まおう"
+   ]
+  },
+  {
+   "entry_id": "W000121",
+   "surface": "伝言",
+   "reading_hira": "でんごん",
+   "vowels": [
+    "E",
+    "N",
+    "O",
+    "N"
+   ],
+   "semantic_category": "life",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "でんごん"
+   ]
+  },
+  {
+   "entry_id": "W000122",
+   "surface": "新幹線",
+   "reading_hira": "しんかんせん",
+   "vowels": [
+    "I",
+    "N",
+    "A",
+    "N",
+    "E",
+    "N"
+   ],
+   "semantic_category": "vehicle",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "しんかんせん"
+   ]
+  },
+  {
+   "entry_id": "W000123",
+   "surface": "飛行機",
+   "reading_hira": "ひこうき",
+   "vowels": [
+    "I",
+    "O",
+    "U",
+    "I"
+   ],
+   "semantic_category": "vehicle",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "ひこうき"
+   ]
+  },
+  {
+   "entry_id": "W000124",
+   "surface": "自転車",
+   "reading_hira": "じてんしゃ",
+   "vowels": [
+    "I",
+    "E",
+    "N",
+    "A"
+   ],
+   "semantic_category": "vehicle",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "じてんしゃ"
+   ]
+  },
+  {
+   "entry_id": "W000125",
+   "surface": "自動車",
+   "reading_hira": "じどうしゃ",
+   "vowels": [
+    "I",
+    "O",
+    "U",
+    "A"
+   ],
+   "semantic_category": "vehicle",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "じどうしゃ"
+   ]
+  },
+  {
+   "entry_id": "W000126",
+   "surface": "救急車",
+   "reading_hira": "きゅうきゅうしゃ",
+   "vowels": [
+    "U",
+    "U",
+    "U",
+    "U",
+    "A"
+   ],
+   "semantic_category": "vehicle",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "きゅうきゅうしゃ"
+   ]
+  },
+  {
+   "entry_id": "W000127",
+   "surface": "消防車",
+   "reading_hira": "しょうぼうしゃ",
+   "vowels": [
+    "O",
+    "U",
+    "O",
+    "U",
+    "A"
+   ],
+   "semantic_category": "vehicle",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "しょうぼうしゃ"
+   ]
+  },
+  {
+   "entry_id": "W000128",
+   "surface": "船",
+   "reading_hira": "ふね",
+   "vowels": [
+    "U",
+    "E"
+   ],
+   "semantic_category": "vehicle",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "ふね"
+   ]
+  },
+  {
+   "entry_id": "W000129",
+   "surface": "気球",
+   "reading_hira": "ききゅう",
+   "vowels": [
+    "I",
+    "U",
+    "U"
+   ],
+   "semantic_category": "vehicle",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "ききゅう"
+   ]
+  },
+  {
+   "entry_id": "W000130",
+   "surface": "地下鉄",
+   "reading_hira": "ちかてつ",
+   "vowels": [
+    "I",
+    "A",
+    "E",
+    "U"
+   ],
+   "semantic_category": "vehicle",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "ちかてつ"
+   ]
+  },
+  {
+   "entry_id": "W000131",
+   "surface": "信号",
+   "reading_hira": "しんごう",
+   "vowels": [
+    "I",
+    "N",
+    "O",
+    "U"
+   ],
+   "semantic_category": "life",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "しんごう"
+   ]
+  },
+  {
+   "entry_id": "W000132",
+   "surface": "横断歩道",
+   "reading_hira": "おうだんほどう",
+   "vowels": [
+    "O",
+    "U",
+    "A",
+    "N",
+    "O",
+    "O",
+    "U"
+   ],
+   "semantic_category": "life",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "おうだんほどう"
+   ]
+  },
+  {
+   "entry_id": "W000133",
+   "surface": "交差点",
+   "reading_hira": "こうさてん",
+   "vowels": [
+    "O",
+    "U",
+    "A",
+    "E",
+    "N"
+   ],
+   "semantic_category": "life",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "こうさてん"
+   ]
+  },
+  {
+   "entry_id": "W000134",
+   "surface": "駅",
+   "reading_hira": "えき",
+   "vowels": [
+    "E",
+    "I"
+   ],
+   "semantic_category": "place",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "えき"
+   ]
+  },
+  {
+   "entry_id": "W000135",
+   "surface": "空港",
+   "reading_hira": "くうこう",
+   "vowels": [
+    "U",
+    "U",
+    "O",
+    "U"
+   ],
+   "semantic_category": "place",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "くうこう"
+   ]
+  },
+  {
+   "entry_id": "W000136",
+   "surface": "学園",
+   "reading_hira": "がくえん",
+   "vowels": [
+    "A",
+    "U",
+    "E",
+    "N"
+   ],
+   "semantic_category": "school",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "がくえん"
+   ]
+  },
+  {
+   "entry_id": "W000137",
+   "surface": "教室",
+   "reading_hira": "きょうしつ",
+   "vowels": [
+    "O",
+    "U",
+    "I",
+    "U"
+   ],
+   "semantic_category": "school",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "きょうしつ"
+   ]
+  },
+  {
+   "entry_id": "W000138",
+   "surface": "図書館",
+   "reading_hira": "としょかん",
+   "vowels": [
+    "O",
+    "O",
+    "A",
+    "N"
+   ],
+   "semantic_category": "place",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "としょかん"
+   ]
+  },
+  {
+   "entry_id": "W000139",
+   "surface": "体育館",
+   "reading_hira": "たいいくかん",
+   "vowels": [
+    "A",
+    "I",
+    "I",
+    "U",
+    "A",
+    "N"
+   ],
+   "semantic_category": "place",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "たいいくかん"
+   ]
+  },
+  {
+   "entry_id": "W000140",
+   "surface": "映画館",
+   "reading_hira": "えいがかん",
+   "vowels": [
+    "E",
+    "I",
+    "A",
+    "A",
+    "N"
+   ],
+   "semantic_category": "place",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "えいがかん"
+   ]
+  },
+  {
+   "entry_id": "W000141",
+   "surface": "遊園地",
+   "reading_hira": "ゆうえんち",
+   "vowels": [
+    "U",
+    "U",
+    "E",
+    "N",
+    "I"
+   ],
+   "semantic_category": "place",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "ゆうえんち"
+   ]
+  },
+  {
+   "entry_id": "W000142",
+   "surface": "動物園",
+   "reading_hira": "どうぶつえん",
+   "vowels": [
+    "O",
+    "U",
+    "U",
+    "U",
+    "E",
+    "N"
+   ],
+   "semantic_category": "place",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "どうぶつえん"
+   ]
+  },
+  {
+   "entry_id": "W000143",
+   "surface": "水族館",
+   "reading_hira": "すいぞくかん",
+   "vowels": [
+    "U",
+    "I",
+    "O",
+    "U",
+    "A",
+    "N"
+   ],
+   "semantic_category": "place",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "すいぞくかん"
+   ]
+  },
+  {
+   "entry_id": "W000144",
+   "surface": "美術館",
+   "reading_hira": "びじゅつかん",
+   "vowels": [
+    "I",
+    "U",
+    "U",
+    "A",
+    "N"
+   ],
+   "semantic_category": "place",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "びじゅつかん"
+   ]
+  },
+  {
+   "entry_id": "W000145",
+   "surface": "神社",
+   "reading_hira": "じんじゃ",
+   "vowels": [
+    "I",
+    "N",
+    "A"
+   ],
+   "semantic_category": "place",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "じんじゃ"
+   ]
+  },
+  {
+   "entry_id": "W000146",
+   "surface": "お寺",
+   "reading_hira": "おてら",
+   "vowels": [
+    "O",
+    "E",
+    "A"
+   ],
+   "semantic_category": "place",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "おてら"
+   ]
+  },
+  {
+   "entry_id": "W000147",
+   "surface": "商店街",
+   "reading_hira": "しょうてんがい",
+   "vowels": [
+    "O",
+    "U",
+    "E",
+    "N",
+    "A",
+    "I"
+   ],
+   "semantic_category": "place",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "しょうてんがい"
+   ]
+  },
+  {
+   "entry_id": "W000148",
+   "surface": "屋上",
+   "reading_hira": "おくじょう",
+   "vowels": [
+    "O",
+    "U",
+    "O",
+    "U"
+   ],
+   "semantic_category": "place",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "おくじょう"
+   ]
+  },
+  {
+   "entry_id": "W000149",
+   "surface": "廊下",
+   "reading_hira": "ろうか",
+   "vowels": [
+    "O",
+    "U",
+    "A"
+   ],
+   "semantic_category": "place",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "ろうか"
+   ]
+  },
+  {
+   "entry_id": "W000150",
+   "surface": "玄関",
+   "reading_hira": "げんかん",
+   "vowels": [
+    "E",
+    "N",
+    "A",
+    "N"
+   ],
+   "semantic_category": "place",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "げんかん"
+   ]
+  },
+  {
+   "entry_id": "W000151",
+   "surface": "台所",
+   "reading_hira": "だいどころ",
+   "vowels": [
+    "A",
+    "I",
+    "O",
+    "O",
+    "O"
+   ],
+   "semantic_category": "place",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "だいどころ"
+   ]
+  },
+  {
+   "entry_id": "W000152",
+   "surface": "風呂",
+   "reading_hira": "ふろ",
+   "vowels": [
+    "U",
+    "O"
+   ],
+   "semantic_category": "place",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "ふろ"
+   ]
+  },
+  {
+   "entry_id": "W000153",
+   "surface": "布団",
+   "reading_hira": "ふとん",
+   "vowels": [
+    "U",
+    "O",
+    "N"
+   ],
+   "semantic_category": "life",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "ふとん"
+   ]
+  },
+  {
+   "entry_id": "W000154",
+   "surface": "枕",
+   "reading_hira": "まくら",
+   "vowels": [
+    "A",
+    "U",
+    "A"
+   ],
+   "semantic_category": "life",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "まくら"
+   ]
+  },
+  {
+   "entry_id": "W000155",
+   "surface": "鏡",
+   "reading_hira": "かがみ",
+   "vowels": [
+    "A",
+    "A",
+    "I"
+   ],
+   "semantic_category": "life",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "かがみ"
+   ]
+  },
+  {
+   "entry_id": "W000156",
+   "surface": "時計",
+   "reading_hira": "とけい",
+   "vowels": [
+    "O",
+    "E",
+    "I"
+   ],
+   "semantic_category": "tool",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "とけい"
+   ]
+  },
+  {
+   "entry_id": "W000157",
+   "surface": "鉛筆",
+   "reading_hira": "えんぴつ",
+   "vowels": [
+    "E",
+    "N",
+    "I",
+    "U"
+   ],
+   "semantic_category": "tool",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "えんぴつ"
+   ]
+  },
+  {
+   "entry_id": "W000158",
+   "surface": "消しゴム",
+   "reading_hira": "けしごむ",
+   "vowels": [
+    "E",
+    "I",
+    "O",
+    "U"
+   ],
+   "semantic_category": "tool",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "けしごむ"
+   ]
+  },
+  {
+   "entry_id": "W000159",
+   "surface": "定規",
+   "reading_hira": "じょうぎ",
+   "vowels": [
+    "O",
+    "U",
+    "I"
+   ],
+   "semantic_category": "tool",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "じょうぎ"
+   ]
+  },
+  {
+   "entry_id": "W000160",
+   "surface": "鞄",
+   "reading_hira": "かばん",
+   "vowels": [
+    "A",
+    "A",
+    "N"
+   ],
+   "semantic_category": "tool",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "かばん"
+   ]
+  },
+  {
+   "entry_id": "W000161",
+   "surface": "財布",
+   "reading_hira": "さいふ",
+   "vowels": [
+    "A",
+    "I",
+    "U"
+   ],
+   "semantic_category": "tool",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "さいふ"
+   ]
+  },
+  {
+   "entry_id": "W000162",
+   "surface": "携帯",
+   "reading_hira": "けいたい",
+   "vowels": [
+    "E",
+    "I",
+    "A",
+    "I"
+   ],
+   "semantic_category": "tool",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "けいたい"
+   ]
+  },
+  {
+   "entry_id": "W000163",
+   "surface": "眼鏡",
+   "reading_hira": "めがね",
+   "vowels": [
+    "E",
+    "A",
+    "E"
+   ],
+   "semantic_category": "tool",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "めがね"
+   ]
+  },
+  {
+   "entry_id": "W000164",
+   "surface": "傘",
+   "reading_hira": "かさ",
+   "vowels": [
+    "A",
+    "A"
+   ],
+   "semantic_category": "tool",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "かさ"
+   ]
+  },
+  {
+   "entry_id": "W000165",
+   "surface": "靴",
+   "reading_hira": "くつ",
+   "vowels": [
+    "U",
+    "U"
+   ],
+   "semantic_category": "tool",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "くつ"
+   ]
+  },
+  {
+   "entry_id": "W000166",
+   "surface": "帽子",
+   "reading_hira": "ぼうし",
+   "vowels": [
+    "O",
+    "U",
+    "I"
+   ],
+   "semantic_category": "tool",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "ぼうし"
+   ]
+  },
+  {
+   "entry_id": "W000167",
+   "surface": "手袋",
+   "reading_hira": "てぶくろ",
+   "vowels": [
+    "E",
+    "U",
+    "U",
+    "O"
+   ],
+   "semantic_category": "tool",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "てぶくろ"
+   ]
+  },
+  {
+   "entry_id": "W000168",
+   "surface": "冷蔵庫",
+   "reading_hira": "れいぞうこ",
+   "vowels": [
+    "E",
+    "I",
+    "O",
+    "U",
+    "O"
+   ],
+   "semantic_category": "tool",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "れいぞうこ"
+   ]
+  },
+  {
+   "entry_id": "W000169",
+   "surface": "洗濯機",
+   "reading_hira": "せんたくき",
+   "vowels": [
+    "E",
+    "N",
+    "A",
+    "U",
+    "I"
+   ],
+   "semantic_category": "tool",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "せんたくき"
+   ]
+  },
+  {
+   "entry_id": "W000170",
+   "surface": "掃除機",
+   "reading_hira": "そうじき",
+   "vowels": [
+    "O",
+    "U",
+    "I",
+    "I"
+   ],
+   "semantic_category": "tool",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "そうじき"
+   ]
+  },
+  {
+   "entry_id": "W000171",
+   "surface": "扇風機",
+   "reading_hira": "せんぷうき",
+   "vowels": [
+    "E",
+    "N",
+    "U",
+    "U",
+    "I"
+   ],
+   "semantic_category": "tool",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "せんぷうき"
+   ]
+  },
+  {
+   "entry_id": "W000172",
+   "surface": "懐中電灯",
+   "reading_hira": "かいちゅうでんとう",
+   "vowels": [
+    "A",
+    "I",
+    "U",
+    "U",
+    "E",
+    "N",
+    "O",
+    "U"
+   ],
+   "semantic_category": "tool",
+   "frequency_percentile": 0.85,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "かいちゅうでんとう"
+   ]
+  },
+  {
+   "entry_id": "W000173",
+   "surface": "サッカー",
+   "reading_hira": "さっかー",
+   "vowels": [
+    "A",
+    "Q",
+    "A",
+    "A"
+   ],
+   "semantic_category": "sport",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "さっかー"
+   ]
+  },
+  {
+   "entry_id": "W000174",
+   "surface": "野球",
+   "reading_hira": "やきゅう",
+   "vowels": [
+    "A",
+    "U",
+    "U"
+   ],
+   "semantic_category": "sport",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "やきゅう"
+   ]
+  },
+  {
+   "entry_id": "W000175",
+   "surface": "水泳",
+   "reading_hira": "すいえい",
+   "vowels": [
+    "U",
+    "I",
+    "E",
+    "I"
+   ],
+   "semantic_category": "sport",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "すいえい"
+   ]
+  },
+  {
+   "entry_id": "W000176",
+   "surface": "相撲",
+   "reading_hira": "すもう",
+   "vowels": [
+    "U",
+    "O",
+    "U"
+   ],
+   "semantic_category": "sport",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "すもう"
+   ]
+  },
+  {
+   "entry_id": "W000177",
+   "surface": "柔道",
+   "reading_hira": "じゅうどう",
+   "vowels": [
+    "U",
+    "U",
+    "O",
+    "U"
+   ],
+   "semantic_category": "sport",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "じゅうどう"
+   ]
+  },
+  {
+   "entry_id": "W000178",
+   "surface": "卓球",
+   "reading_hira": "たっきゅう",
+   "vowels": [
+    "A",
+    "Q",
+    "U",
+    "U"
+   ],
+   "semantic_category": "sport",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "たっきゅう"
+   ]
+  },
+  {
+   "entry_id": "W000179",
+   "surface": "試合",
+   "reading_hira": "しあい",
+   "vowels": [
+    "I",
+    "A",
+    "I"
+   ],
+   "semantic_category": "sport",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "しあい"
+   ]
+  },
+  {
+   "entry_id": "W000180",
+   "surface": "決勝",
+   "reading_hira": "けっしょう",
+   "vowels": [
+    "E",
+    "Q",
+    "O",
+    "U"
+   ],
+   "semantic_category": "sport",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "けっしょう"
+   ]
+  },
+  {
+   "entry_id": "W000181",
+   "surface": "金メダル",
+   "reading_hira": "きんめだる",
+   "vowels": [
+    "I",
+    "N",
+    "E",
+    "A",
+    "U"
+   ],
+   "semantic_category": "sport",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "きんめだる"
+   ]
+  },
+  {
+   "entry_id": "W000182",
+   "surface": "応援",
+   "reading_hira": "おうえん",
+   "vowels": [
+    "O",
+    "U",
+    "E",
+    "N"
+   ],
+   "semantic_category": "sport",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "おうえん"
+   ]
+  },
+  {
+   "entry_id": "W000183",
+   "surface": "運動会",
+   "reading_hira": "うんどうかい",
+   "vowels": [
+    "U",
+    "N",
+    "O",
+    "U",
+    "A",
+    "I"
+   ],
+   "semantic_category": "school",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "うんどうかい"
+   ]
+  },
+  {
+   "entry_id": "W000184",
+   "surface": "遠足",
+   "reading_hira": "えんそく",
+   "vowels": [
+    "E",
+    "N",
+    "O",
+    "U"
+   ],
+   "semantic_category": "school",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "えんそく"
+   ]
+  },
+  {
+   "entry_id": "W000185",
+   "surface": "宿題",
+   "reading_hira": "しゅくだい",
+   "vowels": [
+    "U",
+    "U",
+    "A",
+    "I"
+   ],
+   "semantic_category": "school",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "しゅくだい"
+   ]
+  },
+  {
+   "entry_id": "W000186",
+   "surface": "試験",
+   "reading_hira": "しけん",
+   "vowels": [
+    "I",
+    "E",
+    "N"
+   ],
+   "semantic_category": "school",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "しけん"
+   ]
+  },
+  {
+   "entry_id": "W000187",
+   "surface": "卒業",
+   "reading_hira": "そつぎょう",
+   "vowels": [
+    "O",
+    "U",
+    "O",
+    "U"
+   ],
+   "semantic_category": "school",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "そつぎょう"
+   ]
+  },
+  {
+   "entry_id": "W000188",
+   "surface": "入学",
+   "reading_hira": "にゅうがく",
+   "vowels": [
+    "U",
+    "U",
+    "A",
+    "U"
+   ],
+   "semantic_category": "school",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "にゅうがく"
+   ]
+  },
+  {
+   "entry_id": "W000189",
+   "surface": "友達",
+   "reading_hira": "ともだち",
+   "vowels": [
+    "O",
+    "O",
+    "A",
+    "I"
+   ],
+   "semantic_category": "life",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "ともだち"
+   ]
+  },
+  {
+   "entry_id": "W000190",
+   "surface": "家族",
+   "reading_hira": "かぞく",
+   "vowels": [
+    "A",
+    "O",
+    "U"
+   ],
+   "semantic_category": "life",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "かぞく"
+   ]
+  },
+  {
+   "entry_id": "W000191",
+   "surface": "兄弟",
+   "reading_hira": "きょうだい",
+   "vowels": [
+    "O",
+    "U",
+    "A",
+    "I"
+   ],
+   "semantic_category": "life",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "きょうだい"
+   ]
+  },
+  {
+   "entry_id": "W000192",
+   "surface": "先輩",
+   "reading_hira": "せんぱい",
+   "vowels": [
+    "E",
+    "N",
+    "A",
+    "I"
+   ],
+   "semantic_category": "school",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "せんぱい"
+   ]
+  },
+  {
+   "entry_id": "W000193",
+   "surface": "後輩",
+   "reading_hira": "こうはい",
+   "vowels": [
+    "O",
+    "U",
+    "A",
+    "I"
+   ],
+   "semantic_category": "school",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "こうはい"
+   ]
+  },
+  {
+   "entry_id": "W000194",
+   "surface": "恋人",
+   "reading_hira": "こいびと",
+   "vowels": [
+    "O",
+    "I",
+    "I",
+    "O"
+   ],
+   "semantic_category": "feeling",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "こいびと"
+   ]
+  },
+  {
+   "entry_id": "W000195",
+   "surface": "初恋",
+   "reading_hira": "はつこい",
+   "vowels": [
+    "A",
+    "U",
+    "O",
+    "I"
+   ],
+   "semantic_category": "feeling",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "はつこい"
+   ]
+  },
+  {
+   "entry_id": "W000196",
+   "surface": "告白",
+   "reading_hira": "こくはく",
+   "vowels": [
+    "O",
+    "U",
+    "A",
+    "U"
+   ],
+   "semantic_category": "feeling",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "こくはく"
+   ]
+  },
+  {
+   "entry_id": "W000197",
+   "surface": "約束",
+   "reading_hira": "やくそく",
+   "vowels": [
+    "A",
+    "U",
+    "O",
+    "U"
+   ],
+   "semantic_category": "feeling",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "やくそく"
+   ]
+  },
+  {
+   "entry_id": "W000198",
+   "surface": "夢",
+   "reading_hira": "ゆめ",
+   "vowels": [
+    "U",
+    "E"
+   ],
+   "semantic_category": "feeling",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "ゆめ"
+   ]
+  },
+  {
+   "entry_id": "W000199",
+   "surface": "希望",
+   "reading_hira": "きぼう",
+   "vowels": [
+    "I",
+    "O",
+    "U"
+   ],
+   "semantic_category": "feeling",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "きぼう"
+   ]
+  },
+  {
+   "entry_id": "W000200",
+   "surface": "勇気",
+   "reading_hira": "ゆうき",
+   "vowels": [
+    "U",
+    "U",
+    "I"
+   ],
+   "semantic_category": "feeling",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "ゆうき"
+   ]
+  },
+  {
+   "entry_id": "W000201",
+   "surface": "自由",
+   "reading_hira": "じゆう",
+   "vowels": [
+    "I",
+    "U",
+    "U"
+   ],
+   "semantic_category": "feeling",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "じゆう"
+   ]
+  },
+  {
+   "entry_id": "W000202",
+   "surface": "平和",
+   "reading_hira": "へいわ",
+   "vowels": [
+    "E",
+    "I",
+    "A"
+   ],
+   "semantic_category": "feeling",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "へいわ"
+   ]
+  },
+  {
+   "entry_id": "W000203",
+   "surface": "感謝",
+   "reading_hira": "かんしゃ",
+   "vowels": [
+    "A",
+    "N",
+    "A"
+   ],
+   "semantic_category": "feeling",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "かんしゃ"
+   ]
+  },
+  {
+   "entry_id": "W000204",
+   "surface": "笑顔",
+   "reading_hira": "えがお",
+   "vowels": [
+    "E",
+    "A",
+    "O"
+   ],
+   "semantic_category": "feeling",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "えがお"
+   ]
+  },
+  {
+   "entry_id": "W000205",
+   "surface": "涙",
+   "reading_hira": "なみだ",
+   "vowels": [
+    "A",
+    "I",
+    "A"
+   ],
+   "semantic_category": "feeling",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "なみだ"
+   ]
+  },
+  {
+   "entry_id": "W000206",
+   "surface": "心臓",
+   "reading_hira": "しんぞう",
+   "vowels": [
+    "I",
+    "N",
+    "O",
+    "U"
+   ],
+   "semantic_category": "body",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "しんぞう"
+   ]
+  },
+  {
+   "entry_id": "W000207",
+   "surface": "指先",
+   "reading_hira": "ゆびさき",
+   "vowels": [
+    "U",
+    "I",
+    "A",
+    "I"
+   ],
+   "semantic_category": "body",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "ゆびさき"
+   ]
+  },
+  {
+   "entry_id": "W000208",
+   "surface": "背中",
+   "reading_hira": "せなか",
+   "vowels": [
+    "E",
+    "A",
+    "A"
+   ],
+   "semantic_category": "body",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "せなか"
+   ]
+  },
+  {
+   "entry_id": "W000209",
+   "surface": "足音",
+   "reading_hira": "あしおと",
+   "vowels": [
+    "A",
+    "I",
+    "O",
+    "O"
+   ],
+   "semantic_category": "body",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "あしおと"
+   ]
+  },
+  {
+   "entry_id": "W000210",
+   "surface": "目玉",
+   "reading_hira": "めだま",
+   "vowels": [
+    "E",
+    "A",
+    "A"
+   ],
+   "semantic_category": "body",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "めだま"
+   ]
+  },
+  {
+   "entry_id": "W000211",
+   "surface": "鼻歌",
+   "reading_hira": "はなうた",
+   "vowels": [
+    "A",
+    "A",
+    "U",
+    "A"
+   ],
+   "semantic_category": "music",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "はなうた"
+   ]
+  },
+  {
+   "entry_id": "W000212",
+   "surface": "合唱",
+   "reading_hira": "がっしょう",
+   "vowels": [
+    "A",
+    "Q",
+    "O",
+    "U"
+   ],
+   "semantic_category": "music",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "がっしょう"
+   ]
+  },
+  {
+   "entry_id": "W000213",
+   "surface": "太鼓",
+   "reading_hira": "たいこ",
+   "vowels": [
+    "A",
+    "I",
+    "O"
+   ],
+   "semantic_category": "music",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "たいこ"
+   ]
+  },
+  {
+   "entry_id": "W000214",
+   "surface": "三味線",
+   "reading_hira": "しゃみせん",
+   "vowels": [
+    "A",
+    "I",
+    "E",
+    "N"
+   ],
+   "semantic_category": "music",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "しゃみせん"
+   ]
+  },
+  {
+   "entry_id": "W000215",
+   "surface": "ギター",
+   "reading_hira": "ぎたー",
+   "vowels": [
+    "I",
+    "A",
+    "A"
+   ],
+   "semantic_category": "music",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "ぎたー"
+   ]
+  },
+  {
+   "entry_id": "W000216",
+   "surface": "ピアノ",
+   "reading_hira": "ぴあの",
+   "vowels": [
+    "I",
+    "A",
+    "O"
+   ],
+   "semantic_category": "music",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "ぴあの"
+   ]
+  },
+  {
+   "entry_id": "W000217",
+   "surface": "マイク",
+   "reading_hira": "まいく",
+   "vowels": [
+    "A",
+    "I",
+    "U"
+   ],
+   "semantic_category": "music",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "まいく"
+   ]
+  },
+  {
+   "entry_id": "W000218",
+   "surface": "ラップ",
+   "reading_hira": "らっぷ",
+   "vowels": [
+    "A",
+    "Q",
+    "U"
+   ],
+   "semantic_category": "music",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "らっぷ"
+   ]
+  },
+  {
+   "entry_id": "W000219",
+   "surface": "即興",
+   "reading_hira": "そっきょう",
+   "vowels": [
+    "O",
+    "Q",
+    "O",
+    "U"
+   ],
+   "semantic_category": "music",
+   "frequency_percentile": 0.85,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "そっきょう"
+   ]
+  },
+  {
+   "entry_id": "W000220",
+   "surface": "韻",
+   "reading_hira": "いん",
+   "vowels": [
+    "I",
+    "N"
+   ],
+   "semantic_category": "music",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "いん"
+   ]
+  },
+  {
+   "entry_id": "W000221",
+   "surface": "言葉",
+   "reading_hira": "ことば",
+   "vowels": [
+    "O",
+    "O",
+    "A"
+   ],
+   "semantic_category": "life",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "ことば"
+   ]
+  },
+  {
+   "entry_id": "W000222",
+   "surface": "手紙",
+   "reading_hira": "てがみ",
+   "vowels": [
+    "E",
+    "A",
+    "I"
+   ],
+   "semantic_category": "life",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "てがみ"
+   ]
+  },
+  {
+   "entry_id": "W000223",
+   "surface": "葉書",
+   "reading_hira": "はがき",
+   "vowels": [
+    "A",
+    "A",
+    "I"
+   ],
+   "semantic_category": "life",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "はがき"
+   ]
+  },
+  {
+   "entry_id": "W000224",
+   "surface": "新聞",
+   "reading_hira": "しんぶん",
+   "vowels": [
+    "I",
+    "N",
+    "U",
+    "N"
+   ],
+   "semantic_category": "society",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "しんぶん"
+   ]
+  },
+  {
+   "entry_id": "W000225",
+   "surface": "警察",
+   "reading_hira": "けいさつ",
+   "vowels": [
+    "E",
+    "I",
+    "A",
+    "U"
+   ],
+   "semantic_category": "society",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "けいさつ"
+   ]
+  },
+  {
+   "entry_id": "W000226",
+   "surface": "消防士",
+   "reading_hira": "しょうぼうし",
+   "vowels": [
+    "O",
+    "U",
+    "O",
+    "U",
+    "I"
+   ],
+   "semantic_category": "society",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "しょうぼうし"
+   ]
+  },
+  {
+   "entry_id": "W000227",
+   "surface": "医者",
+   "reading_hira": "いしゃ",
+   "vowels": [
+    "I",
+    "A"
+   ],
+   "semantic_category": "society",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "いしゃ"
+   ]
+  },
+  {
+   "entry_id": "W000228",
+   "surface": "看護師",
+   "reading_hira": "かんごし",
+   "vowels": [
+    "A",
+    "N",
+    "O",
+    "I"
+   ],
+   "semantic_category": "society",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "かんごし"
+   ]
+  },
+  {
+   "entry_id": "W000229",
+   "surface": "弁護士",
+   "reading_hira": "べんごし",
+   "vowels": [
+    "E",
+    "N",
+    "O",
+    "I"
+   ],
+   "semantic_category": "society",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "べんごし"
+   ]
+  },
+  {
+   "entry_id": "W000230",
+   "surface": "裁判所",
+   "reading_hira": "さいばんしょ",
+   "vowels": [
+    "A",
+    "I",
+    "A",
+    "N",
+    "O"
+   ],
+   "semantic_category": "society",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "さいばんしょ"
+   ]
+  },
+  {
+   "entry_id": "W000231",
+   "surface": "大統領",
+   "reading_hira": "だいとうりょう",
+   "vowels": [
+    "A",
+    "I",
+    "O",
+    "U",
+    "O",
+    "U"
+   ],
+   "semantic_category": "society",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "だいとうりょう"
+   ]
+  },
+  {
+   "entry_id": "W000232",
+   "surface": "総理大臣",
+   "reading_hira": "そうりだいじん",
+   "vowels": [
+    "O",
+    "U",
+    "I",
+    "A",
+    "I",
+    "I",
+    "N"
+   ],
+   "semantic_category": "society",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "そうりだいじん"
+   ]
+  },
+  {
+   "entry_id": "W000233",
+   "surface": "選挙",
+   "reading_hira": "せんきょ",
+   "vowels": [
+    "E",
+    "N",
+    "O"
+   ],
+   "semantic_category": "society",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "せんきょ"
+   ]
+  },
+  {
+   "entry_id": "W000234",
+   "surface": "税金",
+   "reading_hira": "ぜいきん",
+   "vowels": [
+    "E",
+    "I",
+    "I",
+    "N"
+   ],
+   "semantic_category": "society",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "ぜいきん"
+   ]
+  },
+  {
+   "entry_id": "W000235",
+   "surface": "給料",
+   "reading_hira": "きゅうりょう",
+   "vowels": [
+    "U",
+    "U",
+    "O",
+    "U"
+   ],
+   "semantic_category": "society",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "きゅうりょう"
+   ]
+  },
+  {
+   "entry_id": "W000236",
+   "surface": "会議",
+   "reading_hira": "かいぎ",
+   "vowels": [
+    "A",
+    "I",
+    "I"
+   ],
+   "semantic_category": "society",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "かいぎ"
+   ]
+  },
+  {
+   "entry_id": "W000237",
+   "surface": "残業",
+   "reading_hira": "ざんぎょう",
+   "vowels": [
+    "A",
+    "N",
+    "O",
+    "U"
+   ],
+   "semantic_category": "society",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "ざんぎょう"
+   ]
+  },
+  {
+   "entry_id": "W000238",
+   "surface": "出張",
+   "reading_hira": "しゅっちょう",
+   "vowels": [
+    "U",
+    "Q",
+    "O",
+    "U"
+   ],
+   "semantic_category": "society",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "しゅっちょう"
+   ]
+  },
+  {
+   "entry_id": "W000239",
+   "surface": "満員電車",
+   "reading_hira": "まんいんでんしゃ",
+   "vowels": [
+    "A",
+    "N",
+    "I",
+    "N",
+    "E",
+    "N",
+    "A"
+   ],
+   "semantic_category": "vehicle",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "まんいんでんしゃ"
+   ]
+  },
+  {
+   "entry_id": "W000240",
+   "surface": "徹夜",
+   "reading_hira": "てつや",
+   "vowels": [
+    "E",
+    "U",
+    "A"
+   ],
+   "semantic_category": "life",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "てつや"
+   ]
+  },
+  {
+   "entry_id": "W000241",
+   "surface": "寝坊",
+   "reading_hira": "ねぼう",
+   "vowels": [
+    "E",
+    "O",
+    "U"
+   ],
+   "semantic_category": "life",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "ねぼう"
+   ]
+  },
+  {
+   "entry_id": "W000242",
+   "surface": "遅刻",
+   "reading_hira": "ちこく",
+   "vowels": [
+    "I",
+    "O",
+    "U"
+   ],
+   "semantic_category": "life",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "ちこく"
+   ]
+  },
+  {
+   "entry_id": "W000243",
+   "surface": "朝ごはん",
+   "reading_hira": "あさごはん",
+   "vowels": [
+    "A",
+    "A",
+    "O",
+    "A",
+    "N"
+   ],
+   "semantic_category": "food",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "あさごはん"
+   ]
+  },
+  {
+   "entry_id": "W000244",
+   "surface": "昼寝",
+   "reading_hira": "ひるね",
+   "vowels": [
+    "I",
+    "U",
+    "E"
+   ],
+   "semantic_category": "life",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "ひるね"
+   ]
+  },
+  {
+   "entry_id": "W000245",
+   "surface": "夜更かし",
+   "reading_hira": "よふかし",
+   "vowels": [
+    "O",
+    "U",
+    "A",
+    "I"
+   ],
+   "semantic_category": "life",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "よふかし"
+   ]
+  },
+  {
+   "entry_id": "W000246",
+   "surface": "正月",
+   "reading_hira": "しょうがつ",
+   "vowels": [
+    "O",
+    "U",
+    "A",
+    "U"
+   ],
+   "semantic_category": "time",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "しょうがつ"
+   ]
+  },
+  {
+   "entry_id": "W000247",
+   "surface": "誕生日",
+   "reading_hira": "たんじょうび",
+   "vowels": [
+    "A",
+    "N",
+    "O",
+    "U",
+    "I"
+   ],
+   "semantic_category": "time",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "たんじょうび"
+   ]
+  },
+  {
+   "entry_id": "W000248",
+   "surface": "記念日",
+   "reading_hira": "きねんび",
+   "vowels": [
+    "I",
+    "E",
+    "N",
+    "I"
+   ],
+   "semantic_category": "time",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "きねんび"
+   ]
+  },
+  {
+   "entry_id": "W000249",
+   "surface": "日曜日",
+   "reading_hira": "にちようび",
+   "vowels": [
+    "I",
+    "I",
+    "O",
+    "U",
+    "I"
+   ],
+   "semantic_category": "time",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "にちようび"
+   ]
+  },
+  {
+   "entry_id": "W000250",
+   "surface": "月曜日",
+   "reading_hira": "げつようび",
+   "vowels": [
+    "E",
+    "U",
+    "O",
+    "U",
+    "I"
+   ],
+   "semantic_category": "time",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "げつようび"
+   ]
+  },
+  {
+   "entry_id": "W000251",
+   "surface": "真夜中",
+   "reading_hira": "まよなか",
+   "vowels": [
+    "A",
+    "O",
+    "A",
+    "A"
+   ],
+   "semantic_category": "time",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "まよなか"
+   ]
+  },
+  {
+   "entry_id": "W000252",
+   "surface": "未来",
+   "reading_hira": "みらい",
+   "vowels": [
+    "I",
+    "A",
+    "I"
+   ],
+   "semantic_category": "time",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "みらい"
+   ]
+  },
+  {
+   "entry_id": "W000253",
+   "surface": "過去",
+   "reading_hira": "かこ",
+   "vowels": [
+    "A",
+    "O"
+   ],
+   "semantic_category": "time",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "かこ"
+   ]
+  },
+  {
+   "entry_id": "W000254",
+   "surface": "永遠",
+   "reading_hira": "えいえん",
+   "vowels": [
+    "E",
+    "I",
+    "E",
+    "N"
+   ],
+   "semantic_category": "time",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "えいえん"
+   ]
+  },
+  {
+   "entry_id": "W000255",
+   "surface": "一瞬",
+   "reading_hira": "いっしゅん",
+   "vowels": [
+    "I",
+    "Q",
+    "U",
+    "N"
+   ],
+   "semantic_category": "time",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "いっしゅん"
+   ]
+  },
+  {
+   "entry_id": "W000256",
+   "surface": "赤",
+   "reading_hira": "あか",
+   "vowels": [
+    "A",
+    "A"
+   ],
+   "semantic_category": "color",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "あか"
+   ]
+  },
+  {
+   "entry_id": "W000257",
+   "surface": "青",
+   "reading_hira": "あお",
+   "vowels": [
+    "A",
+    "O"
+   ],
+   "semantic_category": "color",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "あお"
+   ]
+  },
+  {
+   "entry_id": "W000258",
+   "surface": "黄色",
+   "reading_hira": "きいろ",
+   "vowels": [
+    "I",
+    "I",
+    "O"
+   ],
+   "semantic_category": "color",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "きいろ"
+   ]
+  },
+  {
+   "entry_id": "W000259",
+   "surface": "紫",
+   "reading_hira": "むらさき",
+   "vowels": [
+    "U",
+    "A",
+    "A",
+    "I"
+   ],
+   "semantic_category": "color",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "むらさき"
+   ]
+  },
+  {
+   "entry_id": "W000260",
+   "surface": "金色",
+   "reading_hira": "きんいろ",
+   "vowels": [
+    "I",
+    "N",
+    "I",
+    "O"
+   ],
+   "semantic_category": "color",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "きんいろ"
+   ]
+  },
+  {
+   "entry_id": "W000261",
+   "surface": "銀河",
+   "reading_hira": "ぎんが",
+   "vowels": [
+    "I",
+    "N",
+    "A"
+   ],
+   "semantic_category": "nature",
+   "frequency_percentile": 0.85,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "ぎんが"
+   ]
+  },
+  {
+   "entry_id": "W000262",
+   "surface": "黄金",
+   "reading_hira": "おうごん",
+   "vowels": [
+    "O",
+    "U",
+    "O",
+    "N"
+   ],
+   "semantic_category": "color",
+   "frequency_percentile": 0.85,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "おうごん"
+   ]
+  },
+  {
+   "entry_id": "W000263",
+   "surface": "信じる",
+   "reading_hira": "しんじる",
+   "vowels": [
+    "I",
+    "N",
+    "I",
+    "U"
+   ],
+   "semantic_category": "feeling",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "しんじる"
+   ]
+  },
+  {
+   "entry_id": "W000264",
+   "surface": "本番",
+   "reading_hira": "ほんばん",
+   "vowels": [
+    "O",
+    "N",
+    "A",
+    "N"
+   ],
+   "semantic_category": "sport",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "ほんばん"
+   ]
+  },
+  {
+   "entry_id": "W000265",
+   "surface": "人間",
+   "reading_hira": "にんげん",
+   "vowels": [
+    "I",
+    "N",
+    "E",
+    "N"
+   ],
+   "semantic_category": "life",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "にんげん"
+   ]
+  },
+  {
+   "entry_id": "W000266",
+   "surface": "番長",
+   "reading_hira": "ばんちょう",
+   "vowels": [
+    "A",
+    "N",
+    "O",
+    "U"
+   ],
+   "semantic_category": "society",
+   "frequency_percentile": 0.85,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "ばんちょう"
+   ]
+  },
+  {
+   "entry_id": "W000267",
+   "surface": "万歳",
+   "reading_hira": "ばんざい",
+   "vowels": [
+    "A",
+    "N",
+    "A",
+    "I"
+   ],
+   "semantic_category": "feeling",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "ばんざい"
+   ]
+  },
+  {
+   "entry_id": "W000268",
+   "surface": "半端",
+   "reading_hira": "はんぱ",
+   "vowels": [
+    "A",
+    "N",
+    "A"
+   ],
+   "semantic_category": "feeling",
+   "frequency_percentile": 0.85,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "はんぱ"
+   ]
+  },
+  {
+   "entry_id": "W000269",
+   "surface": "団子",
+   "reading_hira": "だんご",
+   "vowels": [
+    "A",
+    "N",
+    "O"
+   ],
+   "semantic_category": "food",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "だんご"
+   ]
+  },
+  {
+   "entry_id": "W000270",
+   "surface": "暖房",
+   "reading_hira": "だんぼう",
+   "vowels": [
+    "A",
+    "N",
+    "O",
+    "U"
+   ],
+   "semantic_category": "life",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "だんぼう"
+   ]
+  },
+  {
+   "entry_id": "W000271",
+   "surface": "談話",
+   "reading_hira": "だんわ",
+   "vowels": [
+    "A",
+    "N",
+    "A"
+   ],
+   "semantic_category": "society",
+   "frequency_percentile": 0.85,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "だんわ"
+   ]
+  },
+  {
+   "entry_id": "W000272",
+   "surface": "乱闘",
+   "reading_hira": "らんとう",
+   "vowels": [
+    "A",
+    "N",
+    "O",
+    "U"
+   ],
+   "semantic_category": "sport",
+   "frequency_percentile": 0.85,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "らんとう"
+   ]
+  },
+  {
+   "entry_id": "W000273",
+   "surface": "貯金",
+   "reading_hira": "ちょきん",
+   "vowels": [
+    "O",
+    "I",
+    "N"
+   ],
+   "semantic_category": "society",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "ちょきん"
+   ]
+  },
+  {
+   "entry_id": "W000274",
+   "surface": "最強",
+   "reading_hira": "さいきょう",
+   "vowels": [
+    "A",
+    "I",
+    "O",
+    "U"
+   ],
+   "semantic_category": "game",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "さいきょう"
+   ]
+  },
+  {
+   "entry_id": "W000275",
+   "surface": "再会",
+   "reading_hira": "さいかい",
+   "vowels": [
+    "A",
+    "I",
+    "A",
+    "I"
+   ],
+   "semantic_category": "feeling",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "さいかい"
+   ]
+  },
+  {
+   "entry_id": "W000276",
+   "surface": "再開",
+   "reading_hira": "さいかい",
+   "vowels": [
+    "A",
+    "I",
+    "A",
+    "I"
+   ],
+   "semantic_category": "life",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "さいかい"
+   ]
+  },
+  {
+   "entry_id": "W000277",
+   "surface": "災害",
+   "reading_hira": "さいがい",
+   "vowels": [
+    "A",
+    "I",
+    "A",
+    "I"
+   ],
+   "semantic_category": "society",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "さいがい"
+   ]
+  },
+  {
+   "entry_id": "W000278",
+   "surface": "最悪",
+   "reading_hira": "さいあく",
+   "vowels": [
+    "A",
+    "I",
+    "A",
+    "U"
+   ],
+   "semantic_category": "feeling",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "さいあく"
+   ]
+  },
+  {
+   "entry_id": "W000279",
+   "surface": "経済",
+   "reading_hira": "けいざい",
+   "vowels": [
+    "E",
+    "I",
+    "A",
+    "I"
+   ],
+   "semantic_category": "society",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "けいざい"
+   ]
+  },
+  {
+   "entry_id": "W000280",
+   "surface": "体操",
+   "reading_hira": "たいそう",
+   "vowels": [
+    "A",
+    "I",
+    "O",
+    "U"
+   ],
+   "semantic_category": "sport",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "たいそう"
+   ]
+  },
+  {
+   "entry_id": "W000281",
+   "surface": "健康",
+   "reading_hira": "けんこう",
+   "vowels": [
+    "E",
+    "N",
+    "O",
+    "U"
+   ],
+   "semantic_category": "life",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "けんこう"
+   ]
+  },
+  {
+   "entry_id": "W000282",
+   "surface": "絶好調",
+   "reading_hira": "ぜっこうちょう",
+   "vowels": [
+    "E",
+    "Q",
+    "O",
+    "U",
+    "O",
+    "U"
+   ],
+   "semantic_category": "feeling",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "ぜっこうちょう"
+   ]
+  },
+  {
+   "entry_id": "W000283",
+   "surface": "大成功",
+   "reading_hira": "だいせいこう",
+   "vowels": [
+    "A",
+    "I",
+    "E",
+    "I",
+    "O",
+    "U"
+   ],
+   "semantic_category": "feeling",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "だいせいこう"
+   ]
+  },
+  {
+   "entry_id": "W000284",
+   "surface": "冒険",
+   "reading_hira": "ぼうけん",
+   "vowels": [
+    "O",
+    "U",
+    "E",
+    "N"
+   ],
+   "semantic_category": "game",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "ぼうけん"
+   ]
+  },
+  {
+   "entry_id": "W000285",
+   "surface": "宝物",
+   "reading_hira": "たからもの",
+   "vowels": [
+    "A",
+    "A",
+    "A",
+    "O",
+    "O"
+   ],
+   "semantic_category": "game",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "たからもの"
+   ]
+  },
+  {
+   "entry_id": "W000286",
+   "surface": "迷路",
+   "reading_hira": "めいろ",
+   "vowels": [
+    "E",
+    "I",
+    "O"
+   ],
+   "semantic_category": "game",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "めいろ"
+   ]
+  },
+  {
+   "entry_id": "W000287",
+   "surface": "暗号",
+   "reading_hira": "あんごう",
+   "vowels": [
+    "A",
+    "N",
+    "O",
+    "U"
+   ],
+   "semantic_category": "game",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "あんごう"
+   ]
+  },
+  {
+   "entry_id": "W000288",
+   "surface": "秘密",
+   "reading_hira": "ひみつ",
+   "vowels": [
+    "I",
+    "I",
+    "U"
+   ],
+   "semantic_category": "feeling",
+   "frequency_percentile": 0.2,
+   "prompt_eligible": true,
+   "approved": true,
+   "aliases": [
+    "ひみつ"
+   ]
+  },
+  {
+   "entry_id": "W000289",
+   "surface": "伝統",
+   "reading_hira": "でんとう",
+   "vowels": [
+    "E",
+    "N",
+    "O",
+    "U"
+   ],
+   "semantic_category": "society",
+   "frequency_percentile": 0.5,
+   "prompt_eligible": false,
+   "approved": true,
+   "aliases": [
+    "でんとう"
+   ]
+  }
+ ]
+}
