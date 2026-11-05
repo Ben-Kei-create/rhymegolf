@@ -1,0 +1,36 @@
+#!/usr/bin/env bash
+# コミット前に個人情報らしいものの混入を検査し、見つけたらコミットを中止する。
+set -euo pipefail
+fail=0
+
+# 1) private/ 配下のファイルがステージされていないか(見本 *.example.md は除く)
+bad="$(git diff --cached --name-only | grep -E '^private/' | grep -vE '^private/[^/]*\.example\.md$' || true)"
+if [ -n "$bad" ]; then
+  echo "中止: private/ のファイルがステージされています:" >&2
+  echo "$bad" | sed 's/^/  /' >&2
+  fail=1
+fi
+
+# 2) 追加行にメールアドレス・電話番号らしい文字列がないか
+git diff --cached -U0 --no-color | python3 -I -c '
+import re, sys
+email = re.compile(r"[A-Za-z0-9._%+-]+@[A-Za-z0-9-]+(?:\.[A-Za-z0-9-]+)*\.[A-Za-z]{2,}")
+phone = re.compile(r"(?:\+81[ -]?\(?0?\)?[1-9][0-9 -]{7,}|(?<![0-9])0[1-9]0?[ -]?[0-9]{3,4}[ -]?[0-9]{4}(?![0-9]))")
+ok_domains = ("example.com", "example.org", "example.net", "users.noreply.github.com", "anthropic.com")
+bad = []
+for l in sys.stdin.read().splitlines():
+    if not l.startswith("+") or l.startswith("+++"):
+        continue
+    t = l[1:]
+    for m in email.findall(t):
+        if not m.lower().endswith(ok_domains):
+            bad.append(("メールアドレス", m))
+    for m in phone.findall(t):
+        bad.append(("電話番号", m))
+for kind, v in bad:
+    sys.stderr.write("中止: %sらしい文字列がコミット対象に含まれています: %s\n" % (kind, v))
+sys.exit(1 if bad else 0)
+' || fail=1
+
+[ "$fail" -eq 0 ] || echo "(意図したものなら、内容を確認のうえ git commit --no-verify で回避できます)" >&2
+exit "$fail"
